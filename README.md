@@ -1,5 +1,3 @@
 # Demo
 
-Some description.
-
-Extra description.
+Final description.
